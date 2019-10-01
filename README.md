@@ -123,7 +123,7 @@ To capture good driving behavior, I first recorded one and quarter laps on track
 
 To augment the data set, I also flipped images, normalized, cropped image and added correction factor to steering angle to promote center lane driving. The last row images are examples of inputs into the model.
 
-![image1](./new.png)
+![image1](new.png)
 
 I finally randomly shuffled the data set and put 20% of the data into a validation set.
 
